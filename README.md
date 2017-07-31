@@ -8,5 +8,5 @@ A basic data set builder for my eve online spread sheet.
 - Eve SDE resource
 
 #### resources
-- [EVE-Online SDE](git@github.com:ChristopherBlackman/eve_online_misc_data.git)
+- [EVE-Online SDE](https://developers.eveonline.com/resource/resources)
 - [Py-YAML](http://pyyaml.org/wiki/PyYAMLDocumentation)
